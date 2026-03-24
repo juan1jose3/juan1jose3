@@ -1,3 +1,10 @@
+
+
+### Education:
+![CS50](https://img.shields.io/badge/CS50-Completed-white?style=for-the-badge&logo=harvard&logoColor=black)
+![The Odin Project](https://img.shields.io/badge/The_Odin_Project-Completed-00786F?style=for-the-badge&logo=theodinproject&logoColor=white)
+![MOOC.fi Java](https://img.shields.io/badge/Java_MOOC-University_of_Helsinki-212121?style=for-the-badge&logo=java&logoColor=white)
+
 ### My tech stack:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
