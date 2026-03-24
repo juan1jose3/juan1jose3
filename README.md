@@ -2,6 +2,7 @@
 - I am a terminal wizard, very passionate about programming and web dev.
 - Fedora user
 - #1 proprieraty garbage hater 
+- Linux is the superior OS
 
 ### Education:
 ![CS50 Python](https://img.shields.io/badge/CS50_Python-Completed-3776AB?style=for-the-badge&logo=python&logoColor=white)
