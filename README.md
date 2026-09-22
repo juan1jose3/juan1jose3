@@ -1,6 +1,6 @@
 ### About me:
 - I am a terminal wizard, very passionate about programming and web dev.
-- Fedora user
+- OpenSUSE Tumbleweed user
 - #1 proprieraty garbage hater 
 - Linux is the superior OS
 
